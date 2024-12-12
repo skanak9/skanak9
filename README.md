@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Kanak.</h1>
 <h3 align="center">A passionate Prompt Engineer and data enthusiast, always on the lookout for creative ways to enhance user experiences and streamline processes with AI.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif">
-
 Right now, I’m diving deeper into advanced NLP techniques and machine learning algorithms to further refine my approach to prompt engineering and neural network development. I’m also exploring ways to leverage generative AI to simplify and enhance user interactions.
 
 Mail - **kanak.miffy98@gmail.com**
