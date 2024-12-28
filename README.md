@@ -14,7 +14,7 @@ About Me
 
 Right now, I’m diving deeper into advanced NLP techniques and machine learning algorithms to further refine my approach to prompt engineering and neural network development. I’m also exploring ways to leverage generative AI to simplify and enhance user interactions.
 
-📩:iamkanak098@gmail.com
+📩:kanak.miffy98@gmail.com
 <h3 align="left">My Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kanak0983/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/kanak0983/" height="60" width="60" /></a>
