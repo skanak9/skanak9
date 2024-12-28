@@ -1,14 +1,24 @@
 <h1 align="center">Hi, I'm Kanak.</h1>
-<h3 align="center">A passionate Prompt Engineer and data enthusiast, always on the lookout for creative ways to enhance user experiences and streamline processes with AI.</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack++Developer;Ui/UX+Enthusiast;QA+Engineer"></a>
+</p>
+About Me
+
+<picture>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="250px">
+</picture>
+
+- 🚀 Full Stack Developer with a passion for creating innovative solutions
+- 🎨 UI/UX enthusiast exploring the world of digital art and design
+- 🌱 Always learning and expanding my skill set
 
 Right now, I’m diving deeper into advanced NLP techniques and machine learning algorithms to further refine my approach to prompt engineering and neural network development. I’m also exploring ways to leverage generative AI to simplify and enhance user interactions.
 
-Mail - **kanak.miffy98@gmail.com**
-
-<h3 align="left">Connect with me~</h3>
+📩:iamkanak098@gmail.com
+<h3 align="left">My Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kanak0983/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanak0983/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.kanvii._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.kanvii._" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kanak0983/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/kanak0983/" height="60" width="60" /></a>
+<a href="https://instagram.com/_.kanvii._" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="_.kanvii._" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
